@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/readly/static/css/main.fcfc739f.css",
+    "main.js": "/readly/static/js/main.cf6a36d1.js",
+    "static/js/787.b3f9d252.chunk.js": "/readly/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/readly/index.html",
+    "main.fcfc739f.css.map": "/readly/static/css/main.fcfc739f.css.map",
+    "main.cf6a36d1.js.map": "/readly/static/js/main.cf6a36d1.js.map",
+    "787.b3f9d252.chunk.js.map": "/readly/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcfc739f.css",
+    "static/js/main.cf6a36d1.js"
+  ]
+}
